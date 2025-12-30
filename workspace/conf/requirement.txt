@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain-deepseek
+langchain-community
+python-dotenv
+dashscope
+pypdf
+langchain-postgres
